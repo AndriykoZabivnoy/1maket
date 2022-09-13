@@ -92,7 +92,7 @@ body{
 /* HEADER */
 .block{
         background-image: linear-gradient( rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(imghero.png);
-        width: 1900px;
+        width: 100%;
         height: 700px;
         display: flex;
         flex-direction: column;
